@@ -1,0 +1,23 @@
+Calcular tempo de download de arquivos
+
+* Tamanho padrão da pasta: 20 MB
+
+1º Link: 128 mbps
+- Cálculo: 128 / 8 = 16 MBps (MegaBytes por segundo)
+
+Dividindo o tamanho da pasta pela conexão
+- 20 MB / 16 MBps = 1,25 segundos ou 1 minuto e 15 segundos
+
+2º Link: 512 mbps
+- Cálculo: 512 / 8 = 64 MBps (MegaBytes por segundo)
+
+Dividindo o tamanho da pasta pela conexão
+- 20 MB / 64 MBps = 0,3125 segundos ou 312,5 milissegundos
+
+Tarefa - Realizar os cálculos para um link de 300 mbps e 
+o tamanho atual da pasta do projeto atual (Jogos)
+3º Link: 300 mbps
+- Cálculo: 300 / 8 = 37,5 MBps 
+
+Dividindo o tamanho da pasta pela conexão
+- Cálculo: 23,4 MB / 37,5 MBps = 0,53 seegundou ou 530 milissegundos

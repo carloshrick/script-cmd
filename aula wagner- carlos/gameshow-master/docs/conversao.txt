@@ -1,0 +1,16 @@
+Primeiro nome: Carlos
+
+Conversão para binário: 
+Letra	  Decimal     Binário
+C --> 		67		 01000011
+a --> 		97		 01100001  
+r --> 		114		 01110010
+l -->   	108 	 01101100 
+o --> 		111		 01101111
+s --> 		115		 01110011 
+
+Primeiro nome em binário
+01000011 01100001 01110010 01101100 01101111 01110011 
+
+Testar
+https://www.4devs.com.br/tradutor_codigo_binario
